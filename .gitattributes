@@ -1,5 +1,3 @@
-# Treat .glb files as binary
-*.glb binary
+*.glb text eol=lf
 
-# Treat .gltf files as binary
-*.gltf binary
+*.gltf text eol=lf
